@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634940145002",
+    "project_id": "ejemplologine",
+    "storage_bucket": "ejemplologine.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634940145002:android:bc6cb3f6d0fa2d589a7913",
+        "android_client_info": {
+          "package_name": "rodriguez.enrique.practicaautenticacionrodrigueze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAds6M9Oxay5seMslOkLlRpudSmgBI-cWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
